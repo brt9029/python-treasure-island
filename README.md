@@ -7,5 +7,5 @@
 ## Screenshot:
 
 
-# Credits
+## Credits
 - Created by: [brt9029](www.github.com/brt9029 "GitHub Profile Link")
